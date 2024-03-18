@@ -15,7 +15,7 @@ So, now that we’ve simplified the complex data set into a lower dimensional sp
 
 ![image](https://github.com/Yufei-Terry/Delta-Fleet-Analysis/assets/146860931/17f5b950-7664-484c-865f-b40e3d2e2082)
 
-###Cumulative sum of explained variance and the number of components after analyzing with PCA
+### Cumulative sum of explained variance and the number of components after analyzing with PCA
 
 ![image](https://github.com/Yufei-Terry/Delta-Fleet-Analysis/assets/146860931/f4abd9ca-d746-46c0-b438-337d1f583a93)
 
